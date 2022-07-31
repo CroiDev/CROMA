@@ -31,5 +31,4 @@ git clone https://github.com/CroiDev/CROMA
 
 ## Creditos
 
-### Outros
 - **[NYRI4](https://github.com/NYRI4)** por [Discolored](https://github.com/NYRI4/Discolored).
