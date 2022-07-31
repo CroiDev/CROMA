@@ -261,6 +261,7 @@ div:not(:hover)>.members-3WRCEx>div {padding-top: 10px;}
     /*text-shadow: 0px 0px 1px #5865F2;*/
 }
 
+
 /* Mostrar hora da mensagem editada */
 .timestamp-p1Df1m:not(.timestampInline-_lS3aK, .timestampVisibleOnHover-9PEuZS) time::after {
         content: " (" attr(aria-label) ")";
