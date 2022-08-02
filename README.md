@@ -1,5 +1,5 @@
 # CROMA
-Simples, tema sem estravagancias e ajuda a não cansar tanto a vista.
+Um tema simples e estiloso que vai deixar seu Discord encatandaor.
 ![capa](https://github.com/CroiDev/CROMA/blob/main/ativos/CROMA.gif) 
 
 ![DISCORD](https://img.shields.io/discord/578964738617376769.svg?color=5865F2&label=DISCORD&labelColor=101010&logo=discord&logoColor=5865F2&style=flat-square)

@@ -1,6 +1,6 @@
 {
-    "name": "TEMACRO-U",
-    "description": "Um tema simples sem estravagancias e ajuda a não cansar tanto a vista.",
+    "name": "CROMA",
+    "description": "Um tema simples e estiloso.",
     "version": "1.0.0",
     "author": "Croi",
     "theme": "/cdf/_index.scss",
