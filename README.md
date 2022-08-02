@@ -26,7 +26,7 @@ git clone https://github.com/CroiDev/CROMA
     - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**
     - **[Opera Addons](https://addons.opera.com/pt-br/extensions/details/stylus/)**
     - **[Firefox Addons](https://addons.mozilla.org/pt-BR/firefox/addon/styl-us/)**
-2. Após a instalação, acesse [esse link](https://CroiDev.github.io/CROMA/cdf/tema/CROMA.user.css).
+2. Após a instalação, acesse **[esse link](https://CroiDev.github.io/CROMA/cdf/tema/CROMA.user.css)**.
 3. Pressione o botão "Instalar estilo".
 
 ## Creditos
