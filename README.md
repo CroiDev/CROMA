@@ -19,11 +19,11 @@ git clone https://github.com/CroiDev/CROMA
 **[BetterDiscord](https://betterdiscord.app/)**
 <!-- - [Direct Download](https://betterdiscord.net/ghdl?id=3625) -->
 - 📥 [Baixar direto](https://github.com/CroiDev/CROMA/releases/download/1.0.0/CROMA.theme.css) <!-- link temporario -->
-- 📃 [Ver a fonte](https://CroiDev.github.io/CROMA/cdf/tema/compilado.css)
+- 📃 [Ver o código fonte](https://CroiDev.github.io/CROMA/cdf/tema/compilado.css)
 
 **[Stylus](https://github.com/openstyles/stylus)**
 1. Certifique-se de ter a extensão do navegador Stylus instalada.
-    - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**
+    - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)** (Para navegadores baseados no Chromium)
     - **[Opera Addons](https://addons.opera.com/pt-br/extensions/details/stylus/)**
     - **[Firefox Addons](https://addons.mozilla.org/pt-BR/firefox/addon/styl-us/)**
 2. Após a instalação, acesse **[esse link](https://CroiDev.github.io/CROMA/cdf/tema/CROMA.user.css)**.
